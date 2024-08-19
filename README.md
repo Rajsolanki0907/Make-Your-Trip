@@ -19,5 +19,9 @@ Technologies Used:-
 -Version Control: Git
 -IDE: IntelliJ IDEA / Eclipse
 
+# splash page
+This is the splash interface where users can log in or sign up or forget password .
 ![Screenshot 2023-12-15 205740](https://github.com/user-attachments/assets/e7506d02-9fdc-4c17-b6ed-7fef27639714)
+# sign up 
+
 
